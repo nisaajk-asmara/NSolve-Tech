@@ -1,0 +1,9 @@
+[submodule "NSolve-admin-fe"]
+	path = NSolve-admin-fe
+	url = https://github.com/NSolve-Tech/NSolve-admin-fe.git
+[submodule "NSolve-api"]
+	path = NSolve-api
+	url = https://github.com/NSolve-Tech/NSolve-api.git
+[submodule "NSolve-user-fe"]
+	path = NSolve-user-fe
+	url = https://github.com/NSolve-Tech/NSolve-user-fe.git
